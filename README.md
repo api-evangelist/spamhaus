@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Spamhaus is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://spamhaus.org/
+Spamhaus is an international non‑profit organization that tracks email spam and related cyber‑threats. It operates globally recognized blocklists such as the DNSBL, provides reputation data, and offers tools and services to help ISPs, email providers, and security teams protect their networks from spam, phishing, and malware. Through its research and data services, Spamhaus strengthens trust and safety across the internet.
+
+**Areas:** Company · Security · Anti-Spam · Reputation · DNSBL
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://spamhaus.org/)
+- [Documentation](https://www.spamhaus.org/resource-hub/)
+- [Getting started](https://www.spamhaus.org/about-the-research/)
+- [Support](https://www.spamhaus.org/faqs/)
+- [Blog](https://www.spamhaus.org/events/)
+- [Terms of service](https://www.spamhaus.org/terms-conditions/)
+- [Privacy policy](https://www.spamhaus.org/privacy-notice/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/spamhaus/](https://apis.io/providers/spamhaus/).
